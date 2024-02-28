@@ -13,12 +13,7 @@ h1 {
     height: 40px;
     line-height: 44px;
     border-radius: 50%;
-    color: var(--main-cinza);
-    font-size: 4em;
-    background: var(--main-preto);
     text-align: center;
-    border: 3px solid var(--main-cinza);
-    cursor: pointer;
 }
 }
 
