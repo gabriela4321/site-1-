@@ -1,6 +1,5 @@
 body {
     background-color: rgb(11, 46, 99);
-}
 
 h1 {
     color:rgb(219, 99, 189);
@@ -11,9 +10,7 @@ h1 {
     display: inline-block;
     width: 40px;
     height: 40px;
-    line-height: 44px;
     border-radius: 50%;
     text-align: center;
 }
 }
-
